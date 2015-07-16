@@ -11,3 +11,5 @@ Saw it on HN so I did it
 ## Usage
 
 `nc localhost 17`
+
+There's a version currently running at `home.kyleterry.com:17`
